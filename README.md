@@ -16,7 +16,7 @@
 -MERN (mongoose, express, React, and node) were all used in this project to allow for CRUD functionality within the app. -Specifically, we created a mongo database which allowed us to POST user specific data (from the React front-end) and then GET that data in the React front-end as well.
 
 ## Installation Instructions/Getting Started
--heroku URL goes here
+https://teamairapp.herokuapp.com/
 
 ## Contribution Guidelines
 To view/contribute to the front end code visit:
